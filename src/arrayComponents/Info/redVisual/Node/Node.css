@@ -1,0 +1,48 @@
+.node {
+  background: #fff;
+  outline: 1px solid #999;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.h-val {
+  margin-bottom: auto;
+  vertical-align: top;
+}
+
+.g-val {
+  margin-top: auto;
+  vertical-align: bottom;
+}
+
+.node-finish {
+  background-color: Crimson;
+}
+
+.node-start {
+  background-color: #0275d8;
+}
+
+.node-visited {
+  background-color: Cyan;
+}
+
+.node-shortest-path {
+  background-color: Chartreuse;
+}
+
+.node-shortest-path-student {
+  background-color: Chartreuse;
+}
+
+.node-wall {
+  background-color: Black;
+}
+
+.node-negative {
+  background-color: Red;
+}
+
+.node-wrong-select {
+  background-color: Yellow;
+}
